@@ -16,6 +16,7 @@ import org.openqa.selenium.support.events.EventFiringWebDriver;
 import com.crm.qa.util.TestUtil;
 import com.crm.qa.util.WebEventListener;
 
+@SuppressWarnings("unused")
 public class TestBase {
 	
 	public static WebDriver driver;
